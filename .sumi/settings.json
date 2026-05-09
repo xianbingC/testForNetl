@@ -1,0 +1,9 @@
+{
+  "output.maxChannelLine": 1000,
+  "files.exclude": {
+    "**/ui_lib": true
+  },
+  "python.autoComplete.extraPaths": [
+    "D:\\work\\et_lower5\\bin/libs/python"
+  ]
+}
